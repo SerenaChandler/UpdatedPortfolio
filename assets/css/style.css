@@ -14,6 +14,9 @@ body {
 .section {
     text-decoration: black underline;
 }
+.img {
+    max-height: 560px;
+}
 
 .img:hover {
     box-shadow: 0px 0px 5px black;
