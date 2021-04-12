@@ -13,12 +13,19 @@ body {
 
 .section {
     text-decoration: black underline;
+    
 }
 .img {
     max-height: 560px;
 }
 
+.box {
+    border: solid black;
+
+}
+
 .img:hover {
-    box-shadow: 0px 0px 5px black;
+    box-shadow: 0px 0px 10px black;
+    opacity: 85%;
     
 }
