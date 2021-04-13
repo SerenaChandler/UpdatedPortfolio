@@ -6,7 +6,7 @@ li {
 }
 
 body {
-    background-color: bisque;
+    background-color:rgb(255, 218, 173);
 }
 
 
@@ -21,8 +21,20 @@ body {
 
 .box {
     border: solid black;
+    background-color: blanchedalmond;
 
 }
+
+.link {
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: black
+}
+
+
 
 .img:hover {
     box-shadow: 0px 0px 10px black;
